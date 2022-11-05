@@ -5,7 +5,7 @@
    <key>Label</key>
    <string>my.monero.daemon</string>
    <key>Program</key>
-   <string>/Applications/Cryptcurrency/monero-x86_64-apple-darwin11/startup.sh</string>
+   <string>/Applications/monero/startup.sh</string>
    <key>RunAtLoad</key>
    <true/>
 </dict>
